@@ -12,4 +12,4 @@ body {
     background: #000;
 }
 
-.loader {}
+.loader {position: relative;}
