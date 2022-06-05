@@ -71,7 +71,9 @@ body {
     100% {
         left: -100%;
     }
-}.loader span:nth-child(1) {
+}
+
+.loader span:nth-child(1) {
     top: 0;
     left: -100%;
     width: 100%;
