@@ -35,7 +35,7 @@ body {
 
 .loader span:nth-child(1) {
     top: 0;
-    left: 0;
+    left: -100%;
     width: 10%;
     height: 40px;
     background: linear-gradient(90deg, transparent, #03e9f4);
