@@ -29,5 +29,5 @@ body {
 }
 
 .loader span {
-    position: absolute;
+    position: absolute;display: block;
 }
