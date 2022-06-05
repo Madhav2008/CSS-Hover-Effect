@@ -33,4 +33,4 @@ body {
     display: block;
 }
 
-.loader span:nth-child(1) {}
+.loader span:nth-child(1) {top: 0;}
