@@ -105,7 +105,7 @@ body {
 
 @keyframes animate4 {
     0% {
-        top: -100%;
+        top: 100%;
     }
 
     100% {
