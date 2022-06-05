@@ -85,7 +85,7 @@ body {
 
 @keyframes animate3 {
     0% {
-        left: -100%;
+        top: -100%;
     }
 
     100% {
