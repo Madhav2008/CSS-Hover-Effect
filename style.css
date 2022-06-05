@@ -17,7 +17,7 @@ body {
     width: 200px;
     height: 200px;
     overflow: hidden;
-    -webkit-box-reflect: below 1px linear-gradient();
+    -webkit-box-reflect: below 1px linear-gradient(transparent);
 }
 
 .loader:hover {
