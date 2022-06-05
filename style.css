@@ -100,7 +100,7 @@ body {
     height: 100%;
     background: linear-gradient(0deg, transparent, #03e9f4);
     animation: animate4 1s linear infinite;
-    animation-delay: 0s;
+    animation-delay: 0.5s;
 }
 
 @keyframes animate4 {
