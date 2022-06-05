@@ -83,7 +83,7 @@ body {
     animation-delay: 0s;
 }
 
-@keyframes animate3 {
+@keyframes animate2 {
     0% {
         top: -100%;
     }
