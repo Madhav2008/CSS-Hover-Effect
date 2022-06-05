@@ -103,7 +103,7 @@ body {
     animation-delay: 0s;
 }
 
-@keyframes animate1 {
+@keyframes animate4 {
     0% {
         left: -100%;
     }
