@@ -19,4 +19,4 @@ body {
     overflow: hidden;
 }
 
-.loader:hover {}
+.loader:hover {background: #03e9f4;}
