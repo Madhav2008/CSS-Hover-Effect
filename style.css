@@ -41,4 +41,6 @@ body {
     background: linear-gradient(90deg, transparent, #03e9f4);
     animation: animate1 1s linear infinite;
     animation-delay: 0s;
-}@keyframes
+}
+
+@keyframes
