@@ -35,5 +35,6 @@ body {
 
 .loader span:nth-child(1) {
     top: 0;
-    left: 0;width: 10%;
+    left: 0;
+    width: 10%;
 }
