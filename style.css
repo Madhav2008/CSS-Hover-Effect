@@ -31,4 +31,4 @@ body {
 .loader span {
     position: absolute;
     display: block;
-}.loader span:nth-child(1){}
+}.loader span:nth-child(1) {}
