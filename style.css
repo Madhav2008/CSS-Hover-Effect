@@ -13,5 +13,5 @@ body {
 }
 
 .loader {
-    position: relative;
+    position: relative;width: 100%;
 }
