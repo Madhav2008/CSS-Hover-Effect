@@ -28,4 +28,6 @@ body {
         0 0 200px #03e9f4;
 }
 
-.loader span {position: absolute;}
+.loader span {
+    position: absolute;
+}
